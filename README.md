@@ -29,8 +29,8 @@
 If you found these resources helpful, please give them a star! ⭐
 
 Follow me on:
-- [LinkedIn](https://www.linkedin.com/in/ashish-jangra/)
-- [GitHub](https://github.com/AshishJangra27)
-- [Kaggle](https://www.kaggle.com/ashishjangra27)
+- [LinkedIn](https://www.linkedin.com/in/vinay-kumar-ayinala/)
+- [GitHub](https://github.com/AyinalaVinayKumar)
+- [Instagram](https://www.instagram.com/silent_killer_3800/)
 
 Stay updated with my latest content and projects! Your support helps me create more valuable resources for everyone. Let's ace those interviews together!
